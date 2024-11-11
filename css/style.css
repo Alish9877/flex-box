@@ -75,7 +75,9 @@ main {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
+  padding: 20px;
 }
+
 
 nav button {
   background-color: #ea4c89;
@@ -126,9 +128,9 @@ nav button {
 
 #trending {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   gap: 10px;
-  
+  margin-bottom: 100px;
 }
 
 #hero {
